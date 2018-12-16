@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544940292 source:c:\users\sadaf\desktop\assignment_array\main.cpp
+	<iostream>
+	"SelectionSort.h"
+
+1544940263 c:\users\sadaf\desktop\assignment_array\selectionsort.h
+
+1544940695 source:c:\users\sadaf\desktop\assignment_array\selectionsort.cpp
+	"SelectionSort.h"
+	<iostream>
+
